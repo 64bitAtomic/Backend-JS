@@ -8,6 +8,8 @@ This Code is for backend
 
 ##### _Upload file on cloudinary_
 
+[cloudinary-acc](https://console.cloudinary.com/pm/c-0037c2250b94119ab1ba346faf96f7/getting-started)
+
 ```js
 import { v2 as cloudinary } from "cloudinary";
 import fs from "fs";
